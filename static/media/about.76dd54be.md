@@ -1,6 +1,6 @@
 # About me
 
-Hi! My name is Patrik and I am designer and developer from Finland.
+Hi! My name is Patrik and I am a designer and a developer from Finland.
 I've been working as a freelancer with my online and local communities for the past three years,
 producing all kinds of creative goods from logos to websites and even a couple videos.
 I love to keep things minimal and convey my message via colors and shapes.
