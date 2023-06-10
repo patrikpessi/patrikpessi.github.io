@@ -1,7 +1,7 @@
 # About me
 
 Hi! My name is Patrik and I am a designer and a developer from Finland.
-I've been working as a freelancer with my online and local communities for the past three years,
+I've been working as a freelancer with my online and local communities for the past four years,
 producing all kinds of creative goods from logos to websites and even a couple videos.
 I love to keep things minimal and convey my message via colors and shapes.
 
@@ -20,7 +20,23 @@ improve myself and to make my own workflows more efficient.
 
 ## Work Experience
 
-2020-2021
+2021-Today
+
+**Frontend developer and designer.**
+
+Variantum Oy
+
+Espoo, Finland
+
+---
+
+2018-Today
+
+**Developer and designer.**
+
+Freelance
+
+---
 
 **Assistant instructor and technical support.**
 
