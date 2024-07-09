@@ -14,7 +14,7 @@ a certain flexibility to handle many functions and topics as seen in my portfoli
 ## Programs
 
 In my three years of design work I have mastered industry standard software such as Adobe Photoshop,
-Illustrator, After effects and Adobe XD. On the web development side of things, I mostly use React on the frontend
+Illustrator, After effects and Adobe XD. On the web development side of things, I mostly use Svelte on the frontend
 and NodeJS on the backend. Im always exploring all kinds of new technologies and different ways of building the web to
 improve myself and to make my own workflows more efficient.
 
