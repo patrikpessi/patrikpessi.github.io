@@ -5,6 +5,9 @@ import { defineConfig } from "vite";
 export default defineConfig(({ mode }) => ({
     plugins: [tailwindcss(), sveltekit()],
     define: {
-        API_URL: mode === "production" ? '"contentful-proxy.patrik-pessi1426.workers.dev"' : '"http://127.0.0.1:4000/"',
+        API_URL:
+            mode === "production"
+                ? '"https://contentful-proxy.patrik-pessi1426.workers.dev/"'
+                : '"http://127.0.0.1:4000/"',
     },
 }));
