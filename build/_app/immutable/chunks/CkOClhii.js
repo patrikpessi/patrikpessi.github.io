@@ -1,1 +1,0 @@
-import{w as r,g as e}from"./Bf7Rp1zT.js";let i=r(null);function a(s){if(s.sys.type!=="Link")return null;const n=s.sys.linkType;if(n==="Entry")return y(s.sys.id);if(n==="Asset")return d(s.sys.id)}function y(s){return e(i).items.find(t=>t.sys.id===s)}function d(s){return e(i).includes.Asset.find(t=>t.sys.id===s)}export{y as a,i as d,a as g};
