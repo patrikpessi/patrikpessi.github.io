@@ -26,9 +26,6 @@
     };
 </script>
 
-{#if title}
-    <h2 class="text-xl">{title}</h2>
-{/if}
 {#if content}
     <div class="prose max-w-prose prose-color">
         {@html documentToHtmlString(content, options)}
