@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.css": "tailwind"
+    },
+    "prettier.enable": true,
+    "prettier.printWidth": 120,
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": false,
+    "prettier.trailingComma": "all",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+}
