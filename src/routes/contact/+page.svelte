@@ -3,9 +3,9 @@
     import { fade } from "svelte/transition";
 </script>
 
-<section class="flex max-w-full flex-auto flex-col items-center" in:fade>
+<section class="flex max-w-full flex-auto flex-col gap-4 p-4 md:gap-8 md:p-8" in:fade>
     <h1 class="text-3xl font-bold">Contact</h1>
-    <div class="grid w-full max-w-prose grid-cols-1 gap-4 p-4 text-2xl md:grid-cols-2 md:gap-8 md:p-8">
+    <div class="grid flex-auto grid-cols-1 text-lg md:grid-cols-2 md:text-2xl">
         <a
             href="mailto:patrik.pessi@gmail.com"
             class="flex w-full items-center justify-center gap-3 p-10 md:p-20"
@@ -21,7 +21,7 @@
             style="background-color: rgb(114, 137, 218);"
         >
             <Icon name="discord" brand={true} />
-            <span>Batti#8275</span>
+            <span>@batti</span>
         </div>
         <a
             href="https://dribbble.com/Batti"
@@ -34,7 +34,7 @@
             <span>Batti</span>
         </a>
         <a
-            href="https://twitter.com/BPatti12"
+            href="https://x.com/BPatti12"
             class="flex w-full items-center justify-center gap-3 p-10 md:p-20"
             style="background-color: rgb(0, 172, 238);"
             target="_blank"
