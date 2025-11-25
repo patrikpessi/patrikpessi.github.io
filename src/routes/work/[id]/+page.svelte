@@ -5,7 +5,7 @@
 
     const coverImage = getBlock(data.fields.coverImage);
 
-    const images = data.fields.images.map(getBlock);
+    const images = data.fields?.images?.map(getBlock);
 </script>
 
 <section class="flex max-w-full flex-auto flex-col items-center">
